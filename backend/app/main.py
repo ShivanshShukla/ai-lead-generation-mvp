@@ -78,5 +78,7 @@ app.include_router(api_router, prefix="/api")
 @app.get("/")
 def root():
     return {
-        "message": "AI Lead Generation MVP Backend is running"
+        "message": "AI Lead Generation MVP Backend is running",
+        "docs": "/docs",
+        "health": "/api/health",
     }

@@ -1,4 +1,6 @@
-company_name,website,industry,location,contact_name,contact_role,email,source
-Example Manufacturing,https://example.com,Manufacturing,India,Asha Sharma,Owner,,CSV
-Demo SaaS,https://example.org,SaaS,United States,Alex Morgan,Founder,,CSV
-Sample Consulting,https://example.net,Consulting,United Kingdom,Sam Taylor,Managing Director,,CSV
+company_name,website,industry,location,contact_name,contact_role,email,phone,source
+Example Manufacturing,https://example.com,Manufacturing,India,Asha Sharma,Owner,,+91 98100 12345,CSV
+Demo SaaS,https://example.org,SaaS,United States,Alex Morgan,Founder,,+1 (415) 555-0132,CSV
+Sample Consulting,https://example.net,Consulting,United Kingdom,Sam Taylor,Managing Director,,+44 20 7946 0011,CSV
+Gulf Trading,example.biz,Trading,UAE,Layla Hassan,CEO,layla@example.biz,,CSV
+Hilltop Analytics,example.cloud,Analytics,New Zealand,Tom Fraser,Analytics Lead,,+64 4 555 0142,CSV
